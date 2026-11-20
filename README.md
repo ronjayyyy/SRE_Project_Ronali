@@ -23,4 +23,4 @@ Readings, warnings, restart attempts, and outcomes are recorded in SQLite.
 The project report explains the design and how it was tested under CPU and
 memory stress.
 
-[Read the final project report (PDF)](docs/final-project-report.pdf)
+[Read the final project report (PDF)](final-project-report.pdf)
